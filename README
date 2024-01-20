@@ -1,0 +1,36 @@
+# Proj 04
+
+Evan Hammam (811-009-380)
+
+## Instructions
+
+To compile my code, type:
+
+$ make compile
+
+To run my code (after compiling it), type:
+
+$ ./proj4.out input1.txt input2.txt
+
+/To clean my code (i.e., remove any compiled files), type:
+
+$ make clean
+
+Why are the times different for steps 1 and 2?
+
+I have found that when dealing with smaller file lengths,
+step one takes longer then step 2. When dealing with larger file
+lengths however, step 2 takes much longer then step
+2. One plausible explanation for this is that step one only
+traverses the file once whereas step two parses the file
+using seek to get the size of the file, and then
+parses the file again to copy the file into an array.
+This extra step of parsing done in step two likly takes
+a very small amount of time for small file sizes, and
+because the data is then inside of arrays, the
+comparison operations take very little time to execute.
+However if the file size is much greater, step two
+would take longer because it has to parse the file
+more times then in step one. As a result step one would
+take a shorter amount of time for larger files because it
+does not need to parse the file as many times as in step 1.

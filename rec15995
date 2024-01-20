@@ -1,0 +1,20 @@
+Hammam-Evan-proj4/:
+total 508
+-rw-r--r--. 1 myid 164601 Apr  4 15:03 alice1.txt
+-rw-r--r--. 1 myid 164601 Apr  4 15:03 alice2.txt
+-rw-r--r--. 1 myid      0 Apr 18 14:48 differencesFoundInFile1.txt
+-rw-r--r--. 1 myid      0 Apr 18 14:48 differencesFoundInFile2.txt
+-rw-r--r--. 1 myid 115110 Apr  9 14:39 examples.tar.gz
+-rw-r--r--. 1 myid     13 Apr  4 15:03 input1.txt
+-rw-r--r--. 1 myid     13 Apr 18 12:00 #input2.txt#
+-rw-r--r--. 1 myid     13 Apr  4 15:03 input2.txt
+-rw-r--r--. 1 myid      6 Apr  4 15:03 input3.txt
+-rw-r--r--. 1 myid      2 Apr  4 15:03 input4.txt
+-rw-r--r--. 1 myid      2 Apr 18 11:08 input5.txt
+-rw-r--r--. 1 myid      7 Apr  4 15:03 input6.txt
+-rw-r--r--. 1 myid    226 Apr 12 14:15 Makefile
+-rw-r--r--. 1 myid   4119 Apr 18 14:09 proj4.c
+-rwxr-xr-x. 1 myid  17520 Apr 18 13:33 proj4.out
+-rw-r--r--. 1 myid   1219 Apr 18 14:55 README
+-rw-r--r--. 1 myid      0 Apr 18 14:56 rec15995
+/home/myid/ehh67855/cs1730/projects/Hammam-Evan-proj4/:/home/myid/csci-1730
